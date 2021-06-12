@@ -19,7 +19,20 @@
 } */
 .foodimg{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.brf{
+    background-image: url("./assets/foodtop/breakfast.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    align-items: center;
+}
+div.brf h1{
+    left: 50%;
+    right: 50%;
 }
 /* .food div:first-child{
     width: 400px;
