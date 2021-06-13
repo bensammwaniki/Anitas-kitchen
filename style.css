@@ -22,6 +22,8 @@ body{
     margin-bottom: 20px;
 }
 .food{
+    width: fit-content;
+    margin: auto;
 }
 
 /* controls the positioning of text and image */
