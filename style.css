@@ -173,3 +173,17 @@ body{
 /* =========================== */
 /* castomer */
 
+.main{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    border: 2px solid whitesmoke;
+    box-shadow: 2px 2px 5px grey;
+    margin-top: 20px;
+    
+}
+.info>div{
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
