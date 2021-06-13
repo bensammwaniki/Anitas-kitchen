@@ -73,6 +73,12 @@ body{
     height: 105px;
     text-align: center;
 }
+.button div:nth-child(2){
+    background-color: #F15A29;
+}
+.button div:first-child{
+    background-color: whitesmoke;
+}
 /* ================================== */
 
      /* fastfood and drinks section */
