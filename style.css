@@ -71,7 +71,6 @@ body{
 .button>div{
     width: 350px;
     height: 105px;
-    border: 2px solid blue;
     text-align: center;
 }
 /* ================================== */
@@ -206,7 +205,9 @@ body{
 }
 .follow{
     background-color: #F15A29;
-    height: 350px;
+    height: 250px;
+    text-align: center;
+    color: white;
 }
 .follow>div{
     width: fit-content;
@@ -229,3 +230,12 @@ body{
     width: 30%;
     background-color: #F15A29;
 }
+.follow{
+    padding-top: 100px;
+}
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    height: fit-content;
+}
+/* end  */
