@@ -27,7 +27,7 @@ body{
 }
 
 /* controls the positioning of text and image */
-/* ============================================== ==*/
+/* ===============================================*/
 .brf{
     display: flex;
     flex-direction: column; 
