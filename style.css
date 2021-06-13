@@ -198,3 +198,34 @@ body{
 
 /* start footer */
 /* ============================== */
+.sub{
+    background-image: url("./assets/backgrounds/subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.follow{
+    background-color: #F15A29;
+    height: 350px;
+}
+.follow>div{
+    width: fit-content;
+    margin: auto;
+}
+.sub>div{
+    margin-top: 50px;
+    width: fit-content;
+    margin: auto;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.sub input{
+    width: 50%;
+    height: 50px;
+}
+.sub #btn{
+    height: 55px;
+    width: 30%;
+    background-color: #F15A29;
+}
