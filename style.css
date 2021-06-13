@@ -180,10 +180,21 @@ body{
     border: 2px solid whitesmoke;
     box-shadow: 2px 2px 5px grey;
     margin-top: 20px;
-    
+
 }
 .info>div{
     display: flex;
     width: 300px;
     justify-content: space-evenly;
+    align-items: center;
 }
+.abt{
+    width: fit-content;
+    text-align: center;
+    border-left:4px solid grey;
+}
+/* end castomer section */
+/* =========================== */
+
+/* start footer */
+/* ============================== */
