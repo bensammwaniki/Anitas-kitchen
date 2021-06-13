@@ -208,6 +208,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
+    margin-top: 40px;
 }
 .follow{
     background-color: #F15A29;
