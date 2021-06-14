@@ -160,14 +160,26 @@ body{
     padding-top: 110px;
     margin-top: 40px;
 }
-.menuitm>ul{
+.menuitm>nav{
     list-style: none;
     display: flex;
     justify-content: space-around;
-    background-color: wheat;
+    background-color:white;
     height: 40px;
     align-items: center;
     padding: 5px;
+}
+.menuitm a{
+    background-color: white;
+    padding: 5px;
+    width: 23.5%;
+    text-align: center;
+    text-decoration: none;
+    color: #F15A29;
+    font-size: 1.2em;
+}
+a:hover{
+    background-color: wheat;
 }
 .menuimgs{
     display: flex;
