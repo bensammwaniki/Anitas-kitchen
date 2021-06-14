@@ -206,6 +206,9 @@ body{
     text-align: center;
     border-left:4px solid grey;
 }
+.main h1{
+    color: tomato;
+}
 /* end castomer section */
 /* =========================== */
 
