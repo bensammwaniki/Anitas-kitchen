@@ -201,6 +201,9 @@ body{
     justify-content: space-evenly;
     align-items: center;
 }
+.info{
+    text-align: center;
+}
 .abt{
     width: fit-content;
     text-align: center;
