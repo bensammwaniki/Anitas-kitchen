@@ -11,5 +11,6 @@ know bugs the page is static but soon it will have interaction.
 Technologies Used HTML/CSS is used to create the project.
 
 Support and contact details Incase of anything kindly you can contact me through benson.mwaniki@student.moringaschool.com or feel free to contribute to the code via github.
+To view the live page visit https://bensammwaniki.github.io/Anitas-kitchen/
 
 License The ownership of this project however remains solely a property of Bensam Mwaniki. Copyright (c) 2021
