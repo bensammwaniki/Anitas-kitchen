@@ -1,4 +1,6 @@
-{Anitas Restaurant} {This is the first project at Moringa school as to check the leel of understanding}, {This version was last updated on 6 JuN 2021} By {bensam Mwaniki} Description This project makes users to understand more on 5 seconds of B2m (here in after reffered to as B2m), who are the favorite band chosen for this projet. The project allows users to get links to the latest album of B2M and also listen to the favorite songs via youtube. It also gives the users an opportunity to view the band members by their pictures.
+{Anitas Restaurant} {This is the second project at Moringa school as to check the leel of understanding}, {This version was last updated on 13 JuN 2021} By {bensam Mwaniki} Description This project makes users to understand more on  Anitas kitchen which is a restaurant.
+
+This is a restaurant. The site will help clients order and recieve information about Anitas kitchen eg menu for the day bookings and other servicies.
 
 Setup/Installation Requirements Ubuntu 20.04lts Visual studio
 
